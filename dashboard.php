@@ -24,7 +24,7 @@ $user = $get_user->fetch_assoc();
 
             <div class="row mt-5">
                 <div class="col-md-4">
-                    <a href="" class="w-100 py-4 btn btn btn-outline-success">Deposit</a>
+                    <a href="deposit.php" class="w-100 py-4 btn btn btn-outline-success">Deposit</a>
                 </div>
 
                 <div class="col-md-4">

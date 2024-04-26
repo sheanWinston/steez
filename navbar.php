@@ -10,7 +10,5 @@
     <div class="d-flex justify-content-center my-5 bg-dark p-2">
         <a href="index.php" class="btn btn-light me-2">Register</a>
         <a href="login.php" class="btn btn-light me-2">Login</a>
-        <a class="btn btn-light me-2">Deposit</a>
-        <a class="btn btn-light me-2">Withdraw</a>
-        <a class="btn btn-light me-2">History</a>
+        <a href="dashboard.php" class="btn btn-light me-2">Dashboard</a>
     </div>
